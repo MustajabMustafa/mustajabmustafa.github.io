@@ -1,1 +1,1 @@
-echo "# mustajabmustafa.github.io" >> README.md
+echo "# mustajabmustafa.github.io"
